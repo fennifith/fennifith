@@ -1,4 +1,5 @@
-> #### For [a variety](https://github.com/drop-ice/dear-github-2.0) [of](https://en.wikipedia.org/wiki/Criticism_of_Microsoft) [reasons](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish), I am in the process of migrating my projects to [Gitea](https://code.horrific.dev/james) with [horrific.dev](https://horrific.dev/). Most of my GitHub repos will remain available, and will mirror their Gitea counterparts.
+> **For [a variety](https://github.com/drop-ice/dear-github-2.0) [of](https://en.wikipedia.org/wiki/Criticism_of_Microsoft) [reasons](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish), I am in the process of migrating my projects to [Gitea](https://code.horrific.dev/james) with [horrific.dev](https://horrific.dev/). Most of my GitHub repos will remain available, and will mirror their Gitea counterparts.**
+>
 > I suggest researching alternative, self-hosted, or [decentralized](https://forgefed.peers.community) code platforms: [Gitea](https://gitea.io/), [Codeberg](https://codeberg.org/), [SourceHut](https://sourcehut.org/), etc.
 
 ### Open Source
