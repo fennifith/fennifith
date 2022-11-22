@@ -14,6 +14,6 @@ If you need help with the contributing process in any of my projects, have any q
 ### Elsewhere
 
 - 📓 [Blog Posts&emsp;&emsp;&emsp;&nbsp;jfenn.me](https://jfenn.me/blog/)
-- 🐘 [Mastodon&emsp;&emsp;&emsp;@james@is.a.horrific.dev](https://jfenn.me/links/fediverse)
+- 🐘 <a href="https://is.a.horrific.dev/@fennifith" rel="me">Mastodon&emsp;&emsp;&emsp;@fennifith&#8203;@is.a.horrific.dev</a>
 - 🐦 [Twitter&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;@fennifith](https://jfenn.me/links/twitter)
 - 💼 [LinkedIn](https://jfenn.me/links/linkedin)
