@@ -1,8 +1,6 @@
 ### Open Source
 
-I've written a [wide range](https://jfenn.me/projects/) of software for various reasons - to suit my needs, experiment with new functionality, or just [mess around](https://jfenn.me/blog/2018-09-25-Exceptional-Traveler/) for fun.
-
-Much of it is buggy, inefficient, out of date, or otherwise incomplete - but I like to [open source](https://jfenn.me/community/) it regardless so anyone can see what I'm working on. Generally, it's a lot more interesting to interact with other people and collaborate on improving my work.
+I've written a [wide range](https://jfenn.me/projects/) of software for various reasons - to suit my needs, experiment with new functionality, or just [mess around](https://jfenn.me/blog/2018-09-25-exceptional-traveler/) for fun.
 
 If you need help with the contributing process in any of my projects, have any questions or confusion, or want to get feedback before a contribution, please don't hesitate to [get in touch!](https://jfenn.me/contact/)
 
