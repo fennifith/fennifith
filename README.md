@@ -8,5 +8,5 @@ If you need help with the contributing process in any of my projects, have any q
 
 ### Elsewhere
 
-- 📓 [Blog Posts&emsp;&emsp;&emsp;&nbsp;jfenn.me](https://jfenn.me/blog/)
+- 📓 [Blog Posts](https://jfenn.me/blog/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/james-fenn-3390b8167/)
