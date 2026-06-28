@@ -6,12 +6,7 @@ Much of it is buggy, inefficient, out of date, or otherwise incomplete - but I l
 
 If you need help with the contributing process in any of my projects, have any questions or confusion, or want to get feedback before a contribution, please don't hesitate to [get in touch!](https://jfenn.me/contact/)
 
-[![Discord](https://img.shields.io/discord/514625116706177035.svg?logo=discord&logoColor=ffffff&colorB=7289da&labelColor=303030&style=flat-square)](https://discord.jfenn.me/)
-[![Twitch](https://shields.io/twitch/status/fennifith?logo=twitch&logoColor=ffffff&labelColor=303030&style=flat-square)](https://jfenn.me/links/twitch)
-
 ### Elsewhere
 
 - 📓 [Blog Posts&emsp;&emsp;&emsp;&nbsp;jfenn.me](https://jfenn.me/blog/)
-- 🎧 [Music&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;fennifith.bandcamp.com](https://fennifith.bandcamp.com)
-- 🐘 <a href="https://is.a.horrific.dev/@fennifith" rel="me">Mastodon&emsp;&emsp;&emsp;@fennifith&#8203;@is.a.horrific.dev</a>
 - 💼 [LinkedIn](https://www.linkedin.com/in/james-fenn-3390b8167/)
